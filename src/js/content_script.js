@@ -16,6 +16,7 @@ function buildDiv() {
     overlay.style.left = 0;
     overlay.style.zIndex = 99999;
     overlay.style.background = 'black';
+    overlay.style.opacity = 0;
 
     // avoid blocking clicks
     overlay.style.pointerEvents = 'none';
@@ -36,7 +37,7 @@ function flashDiv(opacity, frequency){
         var overlay = document.getElementById('gammyloidOverlay');
 
         // toggle the overlay with the corrected opacity
-        if(overlay.style.opacity == 0){ // jshint ignore:line 
+        if(overlay.style.opacity == 0){ // jshint ignore:line
             overlay.style.opacity = (opacity / 100);
         } else {
             overlay.style.opacity = 0;

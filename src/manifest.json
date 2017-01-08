@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "Gammaloid",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "Produce gamma frequency pulses, possibly linked to neural amyloid reduction. DO NOT USE IF PHOTOSENSITIVE.",
     "author": "Jack Kingsman <jack.kingsman@gmail.com>",
     "icons": {
