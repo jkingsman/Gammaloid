@@ -12,3 +12,7 @@ body {
 .tinyInput {
     width: 3em;
 }
+
+.warning {
+    color: red;
+}
