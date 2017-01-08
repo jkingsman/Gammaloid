@@ -1,0 +1,14 @@
+body {
+    width: 600px;
+}
+
+.colorBox {
+    display: inline-block;
+    width: 15px;
+    height: 1em;
+    background-color: #000;
+}
+
+.tinyInput {
+    width: 3em;
+}
