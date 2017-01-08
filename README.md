@@ -1,7 +1,7 @@
 Gammyloid
 =============
 
-# DO NOT USE IF PHOTOSENSITIVE. GAMMALOID USES HIGH FREQUENCY STROBES.
+# WARNING. DO NOT USE IF PHOTOSENSITIVE. GAMMALOID USES HIGH FREQUENCY STROBES.
 
 Chrome extension that flashes your screen at custom frequencies. Allows for experimentation with possible links between [gamma frequency flashes and amyloid load](http://www.nature.com/nature/journal/v540/n7632/full/nature20587.html).
 
