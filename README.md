@@ -1,4 +1,4 @@
-![Gammaloid Logo](https://raw.githubusercontent.com/jkingsman/Gammaloid/master/images/StoreLogo.png) Gammaloid
+![Gammaloid Logo](https://raw.githubusercontent.com/jkingsman/Gammaloid/master/src/img/gammaloid48.png) Gammaloid
 =============
 
 # WARNING. DO NOT USE IF PHOTOSENSITIVE. GAMMALOID USES HIGH FREQUENCY STROBES.
